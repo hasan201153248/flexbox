@@ -1,0 +1,75 @@
+.whole-page{
+  border: wrap;
+  align-items: center;
+}
+
+.container{
+  display: flex;
+  flex-wrap:wrap;
+  justify-content: center; 
+  
+ 
+}
+.container > div {
+  flex: 0 0 20%;
+  box-sizing: border-box;
+  height: 175px;
+  weidth:175px;
+  padding: 5px;
+  margin: 10px;
+  
+  
+  
+}
+
+ .item-1{
+  background-color: tomato;
+  width: 500px;
+
+}
+ .container .item-2{
+  background-color: orange;
+  
+  
+}
+.item-3{
+  background-color: tomato;
+  
+}
+.item-4{
+  background-color: purple;
+  
+}
+.item-5{
+  background-color: grey;
+  
+}
+.item-6{
+  background-color: green;
+  
+}
+.item-7{
+  background-color: black;
+  color: antiquewhite;
+  
+}
+.item-8{
+  background-color: yellowgreen;
+  
+}
+.item-9{
+  background-color: navajowhite;
+  
+}
+.item-10{
+  background-color: mediumslateblue;
+  
+}
+.item-11{
+  background-color: peru;
+  
+}
+.item-12{
+  background-color: darkred;
+  
+}
